@@ -1,0 +1,48 @@
+h1 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+body {
+    background-color: #cccccc;
+    min-height: 100%;
+    margin: 0;
+}
+.btn {
+    background-color: #4aaaa5 ;
+    color: white;
+}
+.imgSize {
+    margin: 50px;
+}
+.navbar-brand {
+    color: white;
+    background-color: #4aaaa5 ;
+}
+.portfolio {
+    margin-top: 10px;
+    margin-left: 14px;
+}
+.aboutImage {
+    margin-right: 5px;
+}
+.footer {
+    background-color: white;
+    height: 40px;
+    border-top: 10px;
+    border-top-color: #4aaaa5;
+    border-top-style: solid;
+    text-align: center;
+    width: 100%;
+ 
+}
+
+
+.container-md{
+    min-height: 100%;
+    position: relative;
+}
+
+.background {
+    background-image:url(Assets/wavyguy.png);
+    min-height: 100%;
+}
